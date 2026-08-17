@@ -65,8 +65,8 @@ lib/
 └── main.dart                # App entry point
 
 🔮 Upcoming Roadmap
-[ ] Connect Cloud Firestore for real-time transaction and budget synchronization (CRUD).
+   Connect Cloud Firestore for real-time transaction and budget synchronization (CRUD).
 
-[ ] Integrate Gemini API for live, context-aware AI financial analysis and chat responses.
+   Integrate Gemini API for live, context-aware AI financial analysis and chat responses.
 
-[ ] Add state management (Cubit / Bloc) across all data pipelines.
+   Add state management (Cubit / Bloc) across all data pipelines.
